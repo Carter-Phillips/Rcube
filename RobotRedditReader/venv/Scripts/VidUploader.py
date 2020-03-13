@@ -1,6 +1,6 @@
 
 import praw
-userAgent="Reddit reader 1.0 by /u/Cthulhus_Cuck"
+userAgent="Reddit reader 1.0 by "#username
 
 reddit = praw.Reddit(client_id='EpM-tm-knvhoNQ',
                      client_secret='Rl8lhuns5hJGE5fv1wpxrPn6Xww',
