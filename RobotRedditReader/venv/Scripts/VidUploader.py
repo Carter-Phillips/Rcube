@@ -16,4 +16,4 @@ reditname.message('testsub', 'Hello!\n I am contacting you as you have recently 
                                                                                                   'of the video profits will be re-destributed to the members that made the posts!\n\n All I need from you is that you reply '
                                                                                                   'with a paypal email, and in about a month 50% of the profits will be split between the accepting commenters and the OP.\n\n'
                                                                                                   'If you do not want to be in the video please ignore this and you will not be included.\nThank you!\n\n'
-                                                                                                  '**Please message /u/Cthulhus_Cuck with any concerns.', from_subreddit=None)
+                                                                                                  '**Please message /u/' + username + ' with any concerns.', from_subreddit=None)
